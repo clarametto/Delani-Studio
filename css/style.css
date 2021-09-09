@@ -1,8 +1,15 @@
 #DELANI{
     background-image: url("../assets/backgrounds/h_img.jpg");
+    padding: 20px;
+    background-size: 100% 100%;
 
+}
+.image1{
+    padding-top: 10%;
 }
 
 .services{
     background-image: url("../assets/backgrounds/s_image.jpg");
+    background-size: 100% 100%;
+
 }
