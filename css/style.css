@@ -22,10 +22,21 @@
     background-size: 100% 100%;
 
 }
-input, textarea{
+input{
     background: transparent;
     color: whitesmoke;
+    width: 30%;
+    border: 1px solid whitesmoke;
 }
 ::placeholder{
     color: whitesmoke;
+}
+
+textarea{
+    width: 80%;
+    height: 300px;
+    background: transparent;
+    border: 1px solid whitesmoke;
+
+
 }
