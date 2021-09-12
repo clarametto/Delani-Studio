@@ -62,6 +62,51 @@ $(document).ready(function(){
         }
     )
 
+    $(".port4").hover( () => {
+
+        $(".logo4").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo4").hide({opacity: 1}, 5);
+
+        }
+    )
+
+
+    $(".port5").hover( () => {
+
+        $(".logo5").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo5").hide({opacity: 1}, 5);
+
+        }
+    )
+
+    $(".port6").hover( () => {
+
+        $(".logo6").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo6").hide({opacity: 1}, 5);
+
+        }
+    )
+
+    $(".port7").hover( () => {
+
+        $(".logo7").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo7").hide({opacity: 1}, 5);
+
+        }
+    )
+
 });
 
 
