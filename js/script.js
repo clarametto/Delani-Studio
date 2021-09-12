@@ -28,6 +28,40 @@ $(document).ready(function(){
         }
     )
 
+    $(".port1").hover( () => {
+
+        $(".logo1").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo1").hide({opacity: 1}, 5);
+
+        }
+    )
+
+    $(".port2").hover( () => {
+
+        $(".logo2").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo2").hide({opacity: 1}, 5);
+
+        }
+    )
+
+
+    $(".port3").hover( () => {
+
+        $(".logo3").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo3").hide({opacity: 1}, 5);
+
+        }
+    )
+
 });
 
 
