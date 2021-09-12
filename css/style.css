@@ -10,6 +10,30 @@
 #text, #dev, #pro{
     display: none;
 }
+
+
+.logo{
+
+    display: none;
+    padding: 30px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border: 5px solid;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: x-large;
+}
+/* .logo:hover{
+    background-color: red;
+
+} */
+
+
+ 
 .main{
     width: 100px;
 }

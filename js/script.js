@@ -14,6 +14,20 @@ $(document).ready(function(){
         $("#product").toggle(2000);
         $("#pro").toggle(2000);
     });
+
+    // PORTFOLIO
+
+    $(".port").hover( () => {
+
+        $(".logo").show({opacity: 1}, 5);
+    },
+        () => {
+
+        $(".logo").hide({opacity: 1}, 5);
+
+        }
+    )
+
 });
 
 
