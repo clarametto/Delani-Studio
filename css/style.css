@@ -7,6 +7,12 @@
 .image1{
     padding-top: 10%;
 }
+#text{
+    display: none;
+}
+.main{
+    width: 100px;
+}
 
 .services{
     padding: 20px;
