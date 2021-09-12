@@ -6,13 +6,13 @@ $(document).ready(function(){
         $("#design").toggle(2000);
         $("#text").toggle(2000);
     });
-    $(".twoDevelopment").click(function(){
-        $("#wwd2").toggle();
-        $("#twoDev").toggle();
+    $(".Development").click(function(){
+        $("#development").toggle(2000);
+        $("#dev").toggle(2000);
     });
-    $(".threeProductMG").click(function(){
-        $("#wwd3").toggle();
-        $("#threeProd").toggle();
+    $(".Product").click(function(){
+        $("#product").toggle(2000);
+        $("#pro").toggle(2000);
     });
 });
 

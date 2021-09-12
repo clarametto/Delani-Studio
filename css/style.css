@@ -7,7 +7,7 @@
 .image1{
     padding-top: 10%;
 }
-#text{
+#text, #dev, #pro{
     display: none;
 }
 .main{
