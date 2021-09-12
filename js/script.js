@@ -25,7 +25,7 @@ $(document).ready(function(){
 
         $(".logo").hide({opacity: 1}, 5);
 
-        }
+        } 
     )
 
     $(".port1").hover( () => {
