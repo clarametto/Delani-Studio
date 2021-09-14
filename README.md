@@ -4,7 +4,7 @@
 ![Portfolio](delani.png)
 
 ## **Description**
-  Work with us and be a part of a team of committed collaborators and agile. Our approach unifies design, development and product management to create exceptional products we start each project by understanding your business goals,the use's needs and the products requirements Then we help translate them into effective and elegant solutions.
+  Work with us and be a part of a team of committed collaborators and agile. Our approach unifies design, development and product management to create exceptional products. 
                     
                   
 
